@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @EDReyn
-- 👀 I’m interested in C coding..
+- 👋 Hi, I’m @EDReyn: Ed Reynolds
+- 👀 I’m interested in  coding..
 - 🌱 I’m currently learning C++...
 - 💞️
 - 📫 How to reach me: email...
-- 😄 Pronouns: .STD..
+- 😄 Pronouns: He, Him
   
 
 <!---
